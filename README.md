@@ -1,2 +1,2 @@
-# learning-archive
-Archiving what I studied without code
+# TIL knowledge
+Archiving what I studied without code.
