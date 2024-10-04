@@ -14,6 +14,7 @@
 ## Method
 ### Feedback-Control System Perspective
 <img width="850" alt="image" src="https://github.com/user-attachments/assets/879a1456-6370-4773-8c59-c4dedae31d51">
+
 - Feedback-control system (= 기존 controlnet)
   - 단점: 초기 t 시점의 인코더에서 생성된 피쳐가 U-net을 거쳐 t+1에만 제어 신호를 수신할 수 있다.
   - 이미 35개의 생성 블록을 거친 상태이기 때문에 초기 생성된 특징(그림의 빨간 네모 부분)을 인식하는 초기 제어 신호가 없다.
