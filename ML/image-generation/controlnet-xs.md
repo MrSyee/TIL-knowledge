@@ -28,6 +28,7 @@
 - 결론적으로 기존 방법은 생성 프로세스에서 적은 입력을 받기 때문에 적절한 제어 신호를 계산하는 것이 어렵다.
 
 <img width="815" alt="image" src="https://github.com/user-attachments/assets/ce03da34-1257-4015-8366-862e8b8495fb">
+
 - 최종적으로 Type B를 ControlNet-XS라고 명명함
 
 ### ControlNet
