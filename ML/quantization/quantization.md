@@ -1,6 +1,7 @@
 # Quantization
 
 ## Reference
+- Diffusers bitsandbytes Docs: https://huggingface.co/docs/diffusers/v0.31.0/quantization/bitsandbytes?bnb=8-bit
 - LLM.int8(int8): https://huggingface.co/blog/hf-bitsandbytes-integration
 - QLoRA(NF4): https://huggingface.co/blog/4bit-transformers-bitsandbytes
 
